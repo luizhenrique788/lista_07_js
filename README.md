@@ -1,2 +1,2 @@
-# lista_07_js
-lista_07_js 
+# Lista-07
+Uma lista de exercícios estrutura de dados matriz
